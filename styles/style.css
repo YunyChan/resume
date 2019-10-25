@@ -89,6 +89,7 @@ body a{
     display: block;
 }
 .overview__link-item-hd{
+    margin-right: 4px;
     vertical-align: middle;
 }
 .overview__link-item img{
